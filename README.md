@@ -23,4 +23,4 @@ Este é um programa inovador que utiliza um assistente virtual (chatbot) para fa
 3. O assistente processará sua solicitação e fornecerá o arquivo convertido ou o relatório solicitado.
 
 ## Autor
-Renato - EY, 2024
+Renato, 2024
