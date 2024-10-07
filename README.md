@@ -1,4 +1,4 @@
-# Assistente virtual com automação e relatórios de SPED no Excel
+# Assistente virtual com automação e relatórios de SPED e Excel
 
 ## Descrição
 Este é um programa inovador que utiliza um assistente virtual (chatbot) para facilitar a conversão de arquivos SPED (.txt) para o formato Excel (.xlsx) e vice-versa. Com uma interface intuitiva, os usuários podem fazer perguntas em linguagem natural para solicitar a automação da conversão e geração de relatórios, tornando o processo mais acessível e eficiente.
